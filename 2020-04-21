@@ -1,0 +1,19 @@
+#+TITLE: Tuesday, April 21 2020
+* Add Org Journal to Spacemacs
+~SPC a o j j~ creates a new journal entry in an org file, with all the org features available.
+
+The first time a new journal entry is created, Spacemacs prompts to create the file and directory (if not yet created).
+
+Added org-journal as an org layer variable with suggested settings from https://develop.spacemacs.org/layers/+emacs/org/README.html#org-journal-support
+
+#+BEGIN_SRC elisp
+org-enable-org-journal-support t
+org-journal-dir "~/projects/journal/"
+org-journal-file-format "%Y-%m-%d"
+org-journal-date-prefix "#+TITLE: "
+org-journal-date-format "%A, %B %d %Y"
+org-journal-time-prefix "* "
+org-journal-time-format ""
+#+END_SRC
+* Rewrite 'map with partial' page in Clojure practicalli
+ [[https://practicalli.github.io/clojure/thinking-functionally/map-with-partial.html][map with partial]] - Clojure practicalli
