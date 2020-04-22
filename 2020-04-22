@@ -1,0 +1,27 @@
+#+TITLE: Wednesday, April 22 2020
+* Practicalli Spacemacs
+** DONE Re-organise org-mode
+   CLOSED: [2020-04-22 Wed 14:55]
+   - [X] Promote org-journal and literate programming sections
+** DONE Add org-journal section to Practicalli Spacemacs
+   CLOSED: [2020-04-22 Wed 23:30]
+   - [X] Overview of org-journal
+   - [X] Using org-journal
+   - [X] Configure org-journal
+   - [X] Publish new page
+   - [X] Commit new page and images to GitHub repository
+** DONE Re-write Org-mode TODO states
+   CLOSED: [2020-04-22 Wed 23:30]
+   - [X] Review key bindings used
+   - [X] Write a clearer description of use
+   - [X] Add configuration for custom states and colors
+   - [X] Merge Customise TODO states into TODO states
+   - [X] Commit page to GitHub repository
+* Spacemacs configuration
+** ARCHIVED Change journal to monthly
+   CLOSED: [2020-04-22 Wed 14:55]
+   Set the =org-journal-file-type= to ='monthly= in the org layer variables
+   Decided to keep the journal daily and manage export later.
+* DONE Practicalli Data Science
+  CLOSED: [2020-04-22 Wed 16:40]
+  - [X] Create [[https://github.com/practicalli/data-science-content/projects/1][GitHub project board]] for capturing content ideas and issues
