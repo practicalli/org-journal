@@ -1,0 +1,21 @@
+#+TITLE: Thursday, April 23 2020
+* Practicalli Study Group
+** DONE Schedule broadcast
+   CLOSED: [2020-04-23 Thu 17:06]
+   - [X] Create [[https://youtu.be/2opgQ21JOh8][YouTube scheduled broadcast]]
+   - [X] Update [[https://www.meetup.com/London-Clojurians/events/lbjnmrybcgbhc/][London Clojurains meetup.com event page]]
+* Practicalli Spacemacs
+** DONE Journal TODO items carried over
+   CLOSED: [2020-04-23 Thu 17:36]
+   - [X] Add section on TODO items being carried over when creating next days journal
+* Spacemacs configuration
+** DONE Persistent helm-follow
+   CLOSED: [2020-04-23 Thu 17:49]
+   - [X] Add helm-follow-persistent to make sticky with activated commands
+   - [X] Add ranger-enter-with-minus to open range with the minus character (not working - bug?)
+* Clojurists Together
+** DONE Bandcamp setup
+   [[https://3.basecamp.com/4323235/projects/16835711][Basecamp project]]
+   CLOSED: [2020-04-23 Thu 14:18]
+  - [X] Create bandcamp login for Practicalli
+  - [X] Update bandcamp profile
