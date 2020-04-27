@@ -1,0 +1,9 @@
+#+TITLE: Monday, April 27 2020
+* Practicalli Spacemacs
+** DONE Yasnippets content review
+   CLOSED: [2020-04-27 Mon 23:02]
+   - [X] Review [[http://jr0cket.co.uk/2016/07/YASnippets-for-faster-clojure-development.html][YASnippets for Faster Clojure Coding]]
+   - [X] Review [[http://jr0cket.co.uk/2016/07/spacemacs-adding-your-own-yasnippets.html][Spacemacs - Adding custom snippets to Yasnippet]]
+   - [X] Re-write snippets/index.md page
+   - [X] Re-write snippets/clojure-snippets.md page
+   - [X] Delete snippets/autocompletion.md page - included in index.md
