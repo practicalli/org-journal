@@ -1,0 +1,8 @@
+#+TITLE: Tuesday, April 28 2020
+* Practicalli Spacemacs
+** DONE Yasnippets section updates
+   CLOSED: [2020-04-28 Tue 22:07]
+   - [X] GitHub issue - [[https://github.com/practicalli/spacemacs-content/issues/35][Editing a snippet]]
+   - [X] GitHub issue - [[https://github.com/practicalli/spacemacs-content/issues/96][ns snippet]]
+   - [X] GitHub issue - [[https://github.com/practicalli/spacemacs-content/issues/97][deftest not present, its called test]]
+   - [X] GitHub issue - [[https://github.com/practicalli/spacemacs-content/issues/98][Datomic Snippets in Spacemacs]]
