@@ -1,0 +1,30 @@
+#+TITLE: Wednesday, April 29 2020
+* Practicalli Study Group
+** DONE Logitech webcam at 1920x1080 in OBS
+   CLOSED: [2020-04-29 Wed 18:48]
+* Spacemacs Hacking
+** DONE Disable MacOSX zoom gestures
+   CLOSED: [2020-04-29 Wed 23:21]
+   - [X] Add [[https://github.com/practicalli/spacemacs-content/issues/201][issue to practicalli spacemacs board]]
+** DONE Customising TODO states faces
+   CLOSED: [2020-04-29 Wed 15:42]
+   Previously added custom faces for org mode seem to get over-ridden by the doom-solarized-light theme.
+   - [X] Define function to reset TODO state faces
+   #+begin_src emacs-lisp :tangle yes
+  ;; Set TODO keyword faces if over-ridden by theme.
+  (defun practicalli/set-todo-keyword-faces ()
+    (interactive)
+    (setq hl-todo-keyword-faces
+          '(("TODO" . "SlateGray")
+            ("DOING" . "DarkOrchid")
+            ("BLOCKED" . "Firebrick")
+            ("REVIEW" . "Teal")
+            ("DONE" . "ForestGreen")
+            ("ARCHIVED" .  "SlateBlue"))))
+   #+end_src
+** DONE Try anakondo code analysis tool
+   CLOSED: [2020-04-29 Wed 12:40]
+   [[https://github.com/didibus/anakondo][anakondo GitHub repository]]
+   - [X] include in additional-packages list
+   - [X] add-hooks for Clojure modes in dotspacemacs/user-config
+   - [X] Raise issue: [[https://github.com/didibus/anakondo/issues/1][background static analysis for multiple projects on startup]]
