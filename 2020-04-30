@@ -1,0 +1,20 @@
+#+TITLE: Thursday, April 30 2020
+* Practicalli Study Group
+** DONE Refactor Covid19-dashboard
+   CLOSED: [2020-05-01 Fri 00:20]
+   - [X] Move data extraction functions using older data to a different namespaces
+   - [X] Refactor GeoJSON to its own namespace
+   - [X] Create regional totals data set (simplify GeoJSON view)
+   - [X] Use latest data from Gov.uk
+* Spacemacs Hacking
+** DONE Configure org-journal carry over states
+   CLOSED: [2020-04-30 Thu 00:27]
+   - [X] [[https://github.com/practicalli/spacemacs-content/issues/200][GitHub issue - carry forward other states in org-journal]]
+   - [X] identify variable and syntax
+#+BEGIN_SRC elisp
+   org-journal-carryover-items "TODO=\"TODO\"|TODO=\"DOING\"|TODO=\"BLOCKED\"|TODO=\"REVIEW\""
+#+END_SRC
+
+** DONE Replace / buffer search with helm-swoop
+   CLOSED: [2020-04-30 Thu 14:33]
+   - [X] Create custom binding for / to call helm-swoop in Evil normal
