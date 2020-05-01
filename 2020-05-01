@@ -1,0 +1,11 @@
+#+TITLE: Friday, May 01 2020
+* Practicalli Study Group
+** DONE Refactor Covid19-dashboard continued
+   CLOSED: [2020-05-01 Fri 23:50]
+   - [X] Update to latest Gov.uk data and test
+** DONE Investigate discrepancy between GeoJSON and Gov.uk data sets
+   CLOSED: [2020-05-01 Fri 21:05]
+   The local area district names may be different in the GeoJSON to those used in the Gov.uk data set
+   - [X] Create sets of regions for each data set
+   - [X] Compare district names from each data set
+   - [X] [[https://gist.github.com/jr0cket/96e3656ecf16be4c6bacfa566a37afc8][Identify GeoJSON files that work with Vega-lite]]
