@@ -1,0 +1,13 @@
+#+TITLE: Saturday, May 02 2020
+* Practicalli Study Group
+** DONE Broadcast plan
+   CLOSED: [2020-05-02 Sat 12:54]
+   - [X] Compare GeoJSON and Gov.uk data - design journal
+   - [X] Testing GeoJSON files - Vega-lite editor
+   - [X] GeoJSON and topojson (topology) extension
+   - [X] Update visualization to use new data
+   - [X] Remove data set def's, generate from -main
+   - [X] data set builders in data-gov-uk namespace
+   - [X] Refactor dashboard to main function - abstract sections
+   - [X] README.md - add how to update the data file
+   - [X] README.md - add how to run the application
