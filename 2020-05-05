@@ -1,0 +1,23 @@
+#+TITLE: Tuesday, May 05 2020
+* Clojurists Together
+** Plan 1st Month work
+   - [X] [[https://www.clojuriststogether.org/news/q2-2020-funding-announcement/][Review application details]]
+   - [X] Practicalli Clojure section headings
+   - [X] Practicalli Clojure WebApps section headings
+   - [X] Practicalli ClojureScript section headings
+* Ubuntu Linux
+** DONE Fix Powerline10k theme for Zsh
+   CLOSED: [2020-05-05 Tue 13:17]
+   The theme broke a few weeks ago.. time to fix it for videos.
+   - [X] [[https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k][Install Meslo Nerd fonts]] - copy to /usr/share/fonts
+   - [X] `pk10 configure` to run the configuration again
+   - [X] [[https://gist.github.com/jr0cket/3090f25661b156b17ca8e962ecbf710a][Publish pk10 configuration as a Gist]]
+** DONE Update Spacemacs
+   CLOSED: [2020-05-05 Tue 15:01]
+   - [X] Review latest changes
+   - [X] Pull latest commits
+   - [X] Update packages
+* Entertainment
+** Prime Video
+*** DONE Picard (re-watch)
+    CLOSED: [2020-05-05 Wed 23:52]
