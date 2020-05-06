@@ -1,0 +1,49 @@
+#+TITLE: Wednesday, May 06 2020
+* Practicalli Clojure
+** DONE REPL Driven Development overview
+   CLOSED: [2020-05-06 Wed 11:04]
+   - [X] Describe the RDD approach
+   - [X] Commit page
+   - [X] Deploy website
+** DONE Customise Klipse CSS - remove large bottom border
+   CLOSED: [2020-05-06 Wed 15:52]
+   The Klipse plugin for GitBook shows a large gray border at the bottom of each Klipse box, taking up a lot of unnecessary space.
+    Two div classes were adding extra space to the bottom border, =klipse-container= and =klipse-separator=
+    Updated the GitBook styles/website.css with `display: none;` style to hide the specific div's from the page
+
+#+BEGIN_SRC css
+div.klipse-container {
+    display: none;
+}
+
+div.klipse-separator {
+    display: none;
+}
+#+END_SRC
+** DONE f7f2a4e Update screenshot: java install check
+   CLOSED: [2020-05-06 Wed 17:28]
+** DONE 0d60335 Update: reader macros - clarify # syntax is dispatch macro
+   CLOSED: [2020-05-06 Wed 17:10]
+** DONE c326f78 Update wording for introduction
+   CLOSED: [2020-05-06 Wed 17:10]
+** DONE fbfc742 Rename file to correct title functional reactive programming
+   CLOSED: [2020-05-06 Wed 17:10]
+** DONE a58d017 Add Replete link in navigation
+   CLOSED: [2020-05-06 Wed 17:10]
+** DONE 4f73c5c Add Clojure Editors to Development Tools section
+   CLOSED: [2020-05-06 Wed 17:10]
+** DONE 492354e Refactor Clojure concepts section
+   CLOSED: [2020-05-06 Wed 17:10]
+** DONE f2d15f1 Add: First taste of Clojure
+   CLOSED: [2020-05-06 Wed 17:10]
+** DONE 0deec60 Remove or hide pages not of sufficient quality for publication
+   CLOSED: [2020-05-06 Wed 17:10]
+* Entertainment
+** Prime
+*** DOING Halt and Catch Fire
+    - [X] Season 1
+    - [ ] Season 2
+    - [ ] Season 3
+    - [ ] Season 4
+* Regolith Hacking
+  Attempting to update the Practicalli theme to the Regolith 1.4 release.  Having a few issues so going back to Gnome Shell for broadcasts.
