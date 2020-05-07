@@ -1,0 +1,30 @@
+#+TITLE: Thursday, May 07 2020
+* Practicalli Spacemacs
+** DONE 732ca3b practicalli/master Magit Reset changes key bindings and using log list
+   CLOSED: [2020-05-07 Thu 14:02]
+** DONE b1201b0 Comment incomplete pages in navigation to improve reader expectation
+   CLOSED: [2020-05-07 Thu 14:02]
+** DONE 6f3a008 Remove incomplete pages and duplicate entries from navigation
+   CLOSED: [2020-05-07 Thu 12:26]
+** DONE 7830f4c Cheatsheet quit key bindings - change order
+   CLOSED: [2020-05-07 Thu 12:26]
+** DONE c195330 Replace / key binding for search with , s s for helm-swoop
+   CLOSED: [2020-05-07 Thu 12:26]
+** DONE 2039a4e Magit cycle through commit message history
+   CLOSED: [2020-05-07 Thu 12:26]
+** DONE a3801d7 Update Clojure eval pretty print key bindings
+   CLOSED: [2020-05-07 Thu 12:26]
+* Practicalli Study Group
+** DONE Introduction to Spec
+   CLOSED: [2020-05-07 Thu 18:01]
+   - [X] Create deps.edn project
+   - [X] [[https://skillsmatter.com/skillscasts/10415-a-case-for-clojure#video][A Case for Clojure - James Reeves]] (discusses EDN)
+* GitHub
+** DONE Create template for raising issues
+   CLOSED: [2020-05-07 Thu 14:41]
+   Created template in projects/github-issue-template.txt
+* Spacemacs Hacking
+** DONE [[https://github.com/didibus/anakondo][anakondo - long time to analyse covid19-dashboard project]]
+   CLOSED: [2020-05-07 Thu 14:52]
+   Takes over 40 seconds to analyse the project.
+   - [X] [[https://github.com/didibus/anakondo/issues/3][Raise issue including covid19-dashboard project]]
