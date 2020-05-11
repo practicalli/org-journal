@@ -1,0 +1,29 @@
+#+TITLE: Monday, May 11 2020
+* Practicalli Clojure
+** DONE Try clojure-lsp
+   CLOSED: [2020-05-11 Mon 18:19]
+*** Download and install clojure-lsp binary
+    [[https://github.com/snoe/clojure-lsp/releases/][Download latest binary release]] from clojure-lsp project GitHub
+
+    Install the binary on the Operating system path, eg =~/bin/= and ensure it is executable
+*** Configure Spacemacs
+    - [ ] Add the =lsp= layer to =dotspaceamcs-configuration-layers= in =.spacemacs= (this may not be neccessary with the configuration added in .spacemacs
+* Practicalli Spacemacs
+** DONE Cognitect REBL with Spacemacs
+   CLOSED: [2020-05-12 Tue 00:29]
+   [[https://github.com/RickMoynihan/nrebl.middleware][nrebl.middleware]] provides several aliases, which were added to =~/.clojure/deps.edn=
+
+   A new Clojure project was created =clojure -A:new lib practicalli/testing-rebl=
+
+   The project was started in a terminal with the command
+   =clojure -R:nrepl:cider:rebl-8 -A:nrebl=
+
+   Then cider-connect-clj to connect to the running Clojure project, choosing localhost and portnumber which is shown in the terminal when the clojure command has started.
+
+* Gardening
+** DONE Build composter
+   CLOSED: [2020-05-11 Tue 19:30]
+   - [X] Nails for composter
+   - [X] Sander for composter
+   - [X] Sand sides of composter to fit better
+   - [X] Nail composter together
