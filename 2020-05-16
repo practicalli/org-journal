@@ -1,0 +1,23 @@
+#+TITLE: Saturday, May 16 2020
+* Linux
+** DONE Fix practicalli-solarized-light for Regolith 1.4
+   CLOSED: [2020-05-16 Sat 18:08]
+   - [X] Upgrade to Regolith 1.4
+   - [X] Remove practicalli theme
+   - [X] Select Regolith Ubuntu theme
+   - [X] Copy Ubuntu theme root as .Xresources-regolith
+   - [X] Copy typeface configuration and update to practicalli theme
+   - [X] Copy theme configuration and update to practicalli theme
+   - [X] Copy color configuration and update to practicalli theme
+   - [X] Copy st-term configuration and update to practicalli theme
+   - [X] Copy rofi.rasi configuration and update to practicalli theme
+   - [X] Update github repository
+* Practicalli Spacemacs
+** DONE General content updates
+   CLOSED: [2020-05-17 Sun 23:38]
+   - [X] 741a12d Add Vim lecture and exercises link - vim basics
+   - [X] dd24365 Add key binding for helm-top in troubleshooting
+   - [X] facc9a2 Add link to Emacs memory debugging
+   - [X] 25e8617 Update key binding for searching across projects
+* Health
+  Feeling flu symptoms in the morning and very tired until 3pm
