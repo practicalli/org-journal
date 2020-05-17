@@ -1,0 +1,35 @@
+#+TITLE: Sunday, May 17 2020
+* Practicalli Clojure
+** DONE Move editor guides to Development Tools section
+   CLOSED: [2020-05-17 Sun 11:36]
+** DONE Simplify editor install guides main page [6/6]
+   CLOSED: [2020-05-17 Sun 23:49]
+   - [X] Merge install-guides index page with editor guides index page
+   - [X] Update Spacemacs install guide to use Practicalli Spacemacs
+   - [X] Add CSS for IFrame videos as tab block does not support nested youtube block
+   - [X] 0c38bf3 Update overview of editors
+   - [X] c40b79b Add iframe-container style for responsive youtube videos
+   - [X] aa00df4 Move editor install and user guides under development tools section
+** DONE Add Chlorine to Development Tools section [1/1]
+   CLOSED: [2020-05-17 Sun 13:37]
+   - [X] Add [[https://github.com/mauricioszabo/atom-chlorine][link to Chlorine project]] for Atom.io editor
+* Practicalli Spacemacs
+** DONE General updates
+   CLOSED: [2020-05-17 Mon 23:21]
+   - [X] 741a12d Add Vim lecture and exercises link - vim basics
+   - [X] dd24365 Add key binding for helm-top in troubleshooting
+   - [X] facc9a2 Add link to Emacs memory debugging
+   - [X] 25e8617 Update key binding for searching across projects
+* Entertainment
+** Prime
+*** DONE Halt and Catch Fire
+    CLOSED: [2020-05-17 Sun 23:51]
+    - [X] Season 1
+    - [ ] Season 2
+    - [ ] Season 3
+    - [ ] Season 4
+* Gardening
+** DONE Add previous grass cuttings to composter
+   CLOSED: [2020-05-17 Sun 16:54]
+** DONE Weed garden
+   CLOSED: [2020-05-17 Sun 17:53]
