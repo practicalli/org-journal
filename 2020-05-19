@@ -1,0 +1,29 @@
+#+TITLE: Tuesday, May 19 2020
+* Clojurists Together
+** DONE Add ClojuristsTogether logo to Practicalli website
+   CLOSED: [2020-05-19 Tue 15:07]
+   - [X] Add ClojuristsTogether sponsorship section
+   - [X] Add link to bi-monthly reports
+* Practicalli Website
+** DONE Clojurists Together sponsorship [5/5]
+   CLOSED: [2020-05-19 Tue 19:17]
+   - [X] ef35d53 Deploy to test: Clojurists Together sponsorship
+   - [X] 6c69071 Add sponsorship component to main page
+   - [X] 9644409 Add design journal section showing how to call sponsorship function
+   - [X] a609bd7 Add main sponsor section component
+   - [X] 60cf7e3 Add Clojurists Together data to sponsorship channel
+** DONE Update Book section - separate books under heavy development [4/4]
+   CLOSED: [2020-05-19 Tue 19:17]
+   - [X] 6eb3c1f Deploy Test: Book banners and content issue shields
+   - [X] ad34544 Add content issue shields for each book
+   - [X] 7e685de Separate books under heavy development
+   - [X] aa4dbc2 New graphics for book banners
+** DONE General website updates [7/7]
+   CLOSED: [2020-05-19 Tue 19:17]
+   - [X] adbe1b8 Exclude build artifacts from Git
+   - [X] f4bc18a Update link to Practicalli YouTube channel
+   - [X] 04b5e36 Update instructions to run the project from Spacemacs
+   - [X] 3e351d0 Elaborate on live build process
+   - [X] f808bb9 Update cp command to deploy changes to live repository
+   - [X] 320075f Skip GitHub pages Jekyll processing after commit
+   - [X] 86a9d67 Update YouTube link to Practicalli channel in design journal
