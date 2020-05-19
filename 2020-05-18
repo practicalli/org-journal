@@ -1,0 +1,57 @@
+#+TITLE: Monday, May 18 2020
+* Clojurists Together
+** DONE Add practicalli journal to GitHub [3/3]
+   CLOSED: [2020-05-18 Mon 19:18]
+   - [X] Create git repository in ~/projects/journal/
+   - [X] Create repository on GitHub
+   - [X] Create README for project
+** DONE Project Update 1
+   CLOSED: [2020-05-18 Mon 12:05]
+   [[https://github.com/practicalli/clojurists-together-journal][practicalli/clojurists-together-journal]]
+*** Practicalli Study Group
+   - Completed Visualising data science with Oz - A 7 video series that shows the use of Oz and Bulma CSS framework to create a dashboard of visualizations for the coronavirus in the UK.  Covering how to extract and transform data and how to deal with things when the data format changes.  Includes tips and examples to refactor a project as it grows.
+   - Introduction to clojure.spec.alpha - start of a new video series cover how to use spec in the REPL and with Clojure projects
+*** Practicalli Clojure
+   - Transcripts for videos
+   - Update install guide to use Java 11 and Clojure CLI tools
+   - Create clojure-deps-edn repository with collection of commonly used aliases
+   - Update editor install guides to Development Tools section
+   - Refactor overall book content design.  Start the migration to dep.edn projects and Clojure CLI tools.
+   - Add basic introduction to spec which will be expanded as Practicalli study group video series continues
+*** Practicalli Spacemacs
+   - Support community with issues on Spacemacs gitter and #spacemacs channel of Clojurians Slack
+*** Practicalli Clojure WebApps
+   - Refactor overall book content design for Practicalli Clojure WebApps - plan to extend the scope of the book.
+* Practicalli Clojure
+** DONE Add Creative Commons License [2/2]
+   CLOSED: [2020-05-18 Mon 18:13]
+   - [X] Use [[https://chooser-beta.creativecommons.org/][new creative commons license chooser]]
+   - [X] d32b548 master Add Creative Commons license code from new website chooser
+* Practicalli Clojure WebApps
+** DONE Update Creative Commons License [2/2]
+   CLOSED: [2020-05-18 Mon 15:43]
+   - [X] 3bfc6d8 Add README.md
+   - [X] 845f30a Updated Creative Commons License
+* Practicalli Spacemacs
+** DONE Tracking checkbox completion [2/2]
+   CLOSED: [2020-05-18 Mon 16:49]
+   - [X] Describe checkbox completed tracking
+   - [X] 2aa2a51 Add org journal checkboxes tracking with cookies
+** DONE General content updates [3/3]
+   CLOSED: [2020-05-18 Mon 12:19]
+   - [X] 39fa7b3 Update Evil G menu page
+   - [X] 641344f Update Evil Z menu page
+   - [X] d23e0a6 Fix key binding for list-processes
+* Practicalli ClojureScript
+** DONE Update Book cover and license [5/5]
+   CLOSED: [2020-05-18 Mon 18:40]
+   - [X] bb7f784 Add new book banner graphic
+   - [X] d0ebd74 Update README and add Creative commons license
+   - [X] d242c11 Update title and book banner logo
+   - [X] 7760ce0 Add new Creative Commons license
+   - [X] bc7e9e6 Update notice regarding book refactor
+* Spacemacs Hacking
+** DONE heading with checkbox yasnipet for org-journal  [2/2]
+   CLOSED: [2020-05-18 Mon 16:34]
+   - [X] Created snippet in .spacemacs.d/snippets/org-journal-mode/heading-with-checkboxes
+   - [X] 4bcb624 Org-journal heading with checkbox snippet
