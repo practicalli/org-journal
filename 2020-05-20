@@ -1,0 +1,47 @@
+#+TITLE: Wednesday, May 20 2020
+* Practicalli Website
+** DONE Shields for pull requests for each book [3/3]
+   CLOSED: [2020-05-20 Wed 12:43]
+   - [X] 7b6d98f Add Pull Request shields for each book with links to GitHub pulls
+   - [X] bf805ef Open content isssue shield links in new tab - target _blank
+   - [X] e458aa1 Add link to test environment to README
+** DONE Update Clojurists Together logo [1/1]
+   CLOSED: [2020-05-20 Wed 13:19]
+   - [X] Edit logo with GIMP and create rounded corners
+* Health
+  Feeling very tired again today, symptoms returning
+* Entertainment
+** Netflix
+*** DONE GeoStorm
+    CLOSED: [2020-05-21 Wed 20:09]
+    It was as cheesy as when I first watched it (which I had forgotten about).  As I was still ill, then it was a useful background distraction.
+** Playstation
+*** DONE Journey - Play Station 4 [3/3]
+   CLOSED: [2020-05-21 Wed 23:58]
+   - [X] Record complete game play of first game
+   - [X] Upload videos to YouTube
+   - [X] Create [[https://www.youtube.com/playlist?list=PLy9I_IfUBzKIgNQREAtQ0r6h8QtIcKPRY][Journey playlist of the videos]]
+** Hardware
+   Connected Aftershock headphones to BlueTooth repeater plugged into the TV.  Unfortunately the PS4 does not support Bluetooth headphones.
+* Spacemacs Community
+** DONE Multiple cursors in Emacs state
+   CLOSED: [2020-05-20 Wed 11:29]
+   Trying to use multiple cursors in emacs mode, I'm not profficient with VIM so I'd rather stick with that
+   I assume you will need to read the MC docs to set up some useful keybindings in dotspacemacs/user-config section of .spacemacs https://github.com/magnars/multiple-cursors.el
+   I have only used multiple cursors with Evil (vim style editing) which works very well https://practicalli.github.io/spacemacs/spacemacs-basics/evil-tools/multiple-cursors.html
+** DONE Marking helm search list items with C-SPC no longer working
+   CLOSED: [2020-05-20 Wed 19:12]
+   narrow down the search results of =spacemacs/helm-project-smart-do-search=, =SPC /=, manually by marking them with =C-SPC=.  This allow  selection of specific items in a helm list before editing the results with =C-c C-e=. After an update yesterday helm displays a message in the minibuffer that marking is not allowed.  Its this a change in helm package?
+   There have been 3 releases of helm in the last few months, take a look at those changes https://emacs-helm.github.io/helm/
+** DONE Additional debuggers variable not working - wrong Spacemacs branch
+   CLOSED: [2020-05-20 Wed 19:26]
+   additional debuggers configuration is documented in they layer. Is this what you are using? This assumes config is for the Spacemacs develop branch.  Or just look up the debug layer in =SPC h l=
+   https://develop.spacemacs.org/layers/+tools/debug/README.html
+   Not being on develop would explain why the debug layer doesn't work https://practicalli.github.io/spacemacs/install-spacemacs/switch-to-develop.html
+** DONE Themes in emacs26-nox terminal not working
+   CLOSED: [2020-05-21 Thu 00:21]
+   As you are running Emacs in a command line terminal (rather than GUI) themes will be limited by the colors available via that terminal. Not all themes will support the terminal version well. You may need to configure your terminal colors to support which ever theme you use.
+   You didn't mention how you are changing themes. Are you using , T s to select a theme? Try C-c C-f with the list of themes open, then scroll up /down the list to apply each theme.
+   Sometimes you can find terminal colors to set for particular themes by searching on the Internet... but no guarantee. It may be just   trial and error.
+   If a theme is not in the list created by , T s, add the theme name to dotspacemacs-themes list in .spacemacs and restart Emacs or SPC f e R to reload the config and download the theme package.
+   It could be a limitation of emacs26-nox itself, but I do not know if this is the case. You can run the normal emacs app in a terminal too.
