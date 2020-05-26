@@ -1,0 +1,12 @@
+#+TITLE: Monday, May 25 2020
+* Health
+  Still quite ill today.
+* Practicalli Spacemacs
+** DONE Magit forge updates [4/4]
+   CLOSED: [2020-05-25 Mon 09:52]
+   - [X] 642f188 Add hint on Markdown use in pull request description
+   - [X] 0a3681d Add key bindings to confirm create issue / pr
+   - [X] 25583a5 Fix: change links to images
+   - [X] 3cedfeb Rename navigation title: Issues, PRs, Forks
+* Spacemacs community
+  Support in the Spacemacs Gitter channel.
