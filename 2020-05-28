@@ -1,0 +1,37 @@
+#+TITLE: Thursday, May 28 2020
+* Practicalli Clojure
+** DONE General updates [3/3]
+   CLOSED: [2020-05-28 Thu 14:15]
+   - [X] e1237b1 Fix formatting of tag literals
+   - [X] 6c8871f New: reference section on uuid tagged literals
+   - [X] b9a2692 New: reference page on tagged literals
+* Practicalli Clojure WebApps
+** DONE Improve descriptions and wording [15/15]
+   CLOSED: [2020-05-28 Thu 16:01]
+   - [X] 75bd7ca Update: re-write introduction to sets
+   - [X] d16004e New clojure webapps book banner
+   - [X] 4173592 Update: introducing ring improved descriptions
+   - [X] 82e14ca Update: create webserver improve wording
+   - [X] 0a46a34 Update: create project improved descriptions
+   - [X] 8118fac Update: create handler function - improve descriptions
+   - [X] 1a91823 Update: using compojure formatting of function names
+   - [X] be8d161 Update: accessing maps improved descriptions and examples
+   - [X] 275c492 Update: Improve descriptions of let function, add examples
+   - [X] 0950ea3 Update: defroute wording and formatting
+   - [X] b57c267 Update: fix hint layout, improve description
+   - [X] bd11776 Update: webapps overview - add project links, improved description
+   - [X] 9ea4d29 Update Heroku section - provide clearer explination of Procfile
+** DONE Add practicalli favicon [1/1]
+   CLOSED: [2020-05-28 Thur 15:16]
+   - [X] e032100 * Add favicon images and updated deploy script to include them
+** DONE Book content plan [1/1]
+   CLOSED: [2020-05-28 Thu 15:17]
+   - [X] e7f1d58 New content plan for Clojure Webapps book
+* Practicalli Spacemacs
+** DONE Magit Forge updates [5/5]
+   CLOSED: [2020-05-28 Thu 18:22]
+   - [X] 618e443 Update: forge fetch topics and editing issues
+   - [X] d19179d Update Forge configuration to toggle view of closed topics
+   - [X] fc20903 Update: Magit Forge title - issues, prs and forking
+   - [X] 8ea78e3 Magit Forge - configure number of open and close topics shown
+   - [X] bd670a3 Testing prs from forge (#225)
