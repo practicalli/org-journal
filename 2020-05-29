@@ -1,0 +1,16 @@
+#+TITLE: Friday, May 29 2020
+* Practicalli Study Group
+** DONE Introduction to Spec [3/4]
+   CLOSED: [2020-06-01 Fri 20:14]
+   - [X] function definition :pre and :post conditions
+   - [X] spec valid? and assert with :pre and :post
+   - [X] Validation of functions with spec fdef specifications
+   https://github.com/practicalli/leveraging-spec/blob/master/src/practicalli/spec_for_validation.clj
+
+* Practicalli Spacemacs
+** DONE Magit Forge updates [1/2]
+   CLOSED: [2020-05-29 Fri 14:20]
+   - [X] 99f877b Magit Forge configure accounts to fork to
+** DONE General updates [/]
+   CLOSED: [2020-05-29 Fri 09:27]
+   - [X] 59d2a46 Update evaluate in repl buffer - key bindings and content
